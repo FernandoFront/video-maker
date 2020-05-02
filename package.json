@@ -1,0 +1,27 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "robot of make video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoFront/video-maker.git"
+  },
+  "keywords": [
+    "videomaker",
+    "bot",
+    "video"
+  ],
+  "author": "Fernando Saraiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoFront/video-maker/issues"
+  },
+  "homepage": "https://github.com/FernandoFront/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
